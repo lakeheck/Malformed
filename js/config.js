@@ -1,6 +1,6 @@
 export const config = {
     SIM_RESOLUTION: 256, //simres
-    DYE_RESOLUTION: 1024, //output res 
+    DYE_RESOLUTION: 512, //output res 
     ASPECT: 1.0,
     CAPTURE_RESOLUTION: 1024, //screen capture res 
     DENSITY_DISSIPATION: .85, //def need to figure out this one, think perhaps bc im squaring the color in splatColor
